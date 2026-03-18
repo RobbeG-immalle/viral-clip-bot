@@ -1,0 +1,11 @@
+yt-dlp
+openai-whisper
+openai>=1.0.0
+moviepy
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+requests
+python-dotenv
+pyyaml
+boto3

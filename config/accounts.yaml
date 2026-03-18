@@ -1,0 +1,13 @@
+youtube:
+  - credentials: config/youtube_account1_credentials.json
+  - credentials: config/youtube_account2_credentials.json
+
+tiktok:
+  - access_token: "YOUR_TIKTOK_TOKEN_1"
+  - access_token: "YOUR_TIKTOK_TOKEN_2"
+
+instagram:
+  - user_id: "YOUR_IG_USER_ID_1"
+    access_token: "YOUR_IG_TOKEN_1"
+  - user_id: "YOUR_IG_USER_ID_2"
+    access_token: "YOUR_IG_TOKEN_2"
